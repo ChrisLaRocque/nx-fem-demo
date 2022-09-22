@@ -5,6 +5,6 @@
   "version": "0.0.0",
   "license": "MIT",
   "dependencies": {
-    "gatsby": "^4.21.0"
+    "gatsby": "*"
   }
 }
